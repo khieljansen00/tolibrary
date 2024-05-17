@@ -1,0 +1,36 @@
+
+@font-face {
+	font-family: 'Asul';
+	src: url('Asul-Regular.ttf') format('truetype');
+}
+
+body {
+	font-family: 'Asul';
+	font-size: 19px;
+}
+
+.navigation {
+	margin-top: 10pc;
+	margin-bottom: 5pc;
+}
+
+.navigation p {
+	display: inline;
+	margin-right: 7pc;
+}
+
+.p0 {
+	margin-bottom: 5pc;
+}
+
+.p1 {
+	margin-left: 2pc;
+}
+
+.to0 {
+	margin-left: 1pc;
+}
+
+.turn0 {
+	margin-top: 4pc;
+}
