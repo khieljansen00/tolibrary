@@ -4,26 +4,28 @@
 	src: url('Asul-Regular.ttf') format('truetype');
 }
 
-.to0 {
+body {
+	
 	font-family: 'Asul';
-	font-size: 19px;
-	padding-bottom: 5pc;
-	padding-left: 3pc;
+	font-size: 2pc;
+	margin-left: 10pc;
+	margin-top: 14pc;
 }
 
+
 .navigation {
-	padding-bottom: 2pc;
+	margin-bottom: 4pc;
 }
 
 .navigation p {
 	display: inline;
-	padding-right: 7pc;
+	margin-right: 11pc;
 }
 
 .p1 {
-	padding-left: 2pc;
+	margin-left: 3pc;
 }
 
-.turn0 {
-	padding-top: 5pc;
+.footer {
+	margin-top: 25pc;
 }
