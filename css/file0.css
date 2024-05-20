@@ -16,6 +16,7 @@ body p {
 	line-height: 3pc;
 }
 
+
 .navigation {
 	margin-bottom: 4pc;
 }
@@ -23,11 +24,11 @@ body p {
 .navigation p {
 	display: inline;
 	margin-right: 11pc;
-	line-height: 8pc;
 }
 
 .p1 {
 	margin-left: 3pc;
+	margin-bottom: 15pc;
 }
 
 .footer {
