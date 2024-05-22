@@ -1,4 +1,9 @@
 
+ /* html */
+
+ /* body */
+
+
 
 @font-face {
 	font-family: 'Asul';
@@ -18,12 +23,12 @@
 
 .navigation {
 	margin-bottom: 3.0pc;
-	display: inline;
-	margin-right: 11pc;
-	line-height: 8pc;
 }
 
 .navigation p {
+	/*display: inline;*/
+	margin-right: 11pc;
+	line-height: 2.0pc;
 }
 
 .p1 {
