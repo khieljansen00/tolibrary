@@ -1,3 +1,6 @@
+head {
+	line-height: 1.0pc;
+}
 
 @font-face {
 	font-family: 'Asul';
@@ -13,6 +16,7 @@ body {
 	margin-top: 3.000pc;
 	padding-top: 1.0pc;
 	color: rgb(0.0, 0.0, 0.0);
+	background-color: rgb(242.0, 242.0, 242.0);
 }
 
 body p {
