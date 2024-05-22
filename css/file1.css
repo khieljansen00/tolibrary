@@ -5,28 +5,25 @@
 	src: url('Asul-Regular.ttf') format('truetype');
 }
 
-body {
+#s0 {
 	
 	font-family: 'Asul';
-	font-size: 2.000pc;
+	font-size: 2.00pc;
+	line-height: 2.0pc;
 	padding-left: 1.0pc;
 	padding-top: 1.0pc;
 	color: rgb(0.0, 0.0, 0.0);
 	background-color: rgb(242.0, 242.0, 242.0);
 }
 
-body p {
-	line-height: 2.0pc;
-}
-
 .navigation {
 	margin-bottom: 3.0pc;
-}
-
-.navigation p {
 	display: inline;
 	margin-right: 11pc;
 	line-height: 8pc;
+}
+
+.navigation p {
 }
 
 .p1 {
