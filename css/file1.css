@@ -8,16 +8,19 @@ body {
 	
 	font-family: 'Asul';
 	font-size: 2.000pc;
-	margin-left: 10.0pc;
-	margin-top: 14.0pc;
+	margin-left: 8.000pc;
+	padding-left: 1.0pc;
+	margin-top: 3.000pc;
+	padding-top: 1.0pc;
+	color: rgb(0.0, 0.0, 0.0);
 }
 
 body p {
-	line-height: 3pc;
+	line-height: 2.0pc;
 }
 
 .navigation {
-	margin-bottom: 4pc;
+	margin-bottom: 3.0pc;
 }
 
 .navigation p {
@@ -27,10 +30,11 @@ body p {
 }
 
 .p1 {
-	margin-left: 3pc;
+	padding-left: 1.0pc;
+	padding-bottom: 2.0pc
 }
 
 .footer {
-	margin-top: 25pc;
+	padding-top: 21.0pc;
 }
 
