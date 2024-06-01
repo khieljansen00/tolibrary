@@ -16,7 +16,9 @@
 	font-size: 2.00pc;
 	line-height: 2.0pc;
 	padding-left: 1.0pc;
-	padding-top: 0.0pc;
+    padding-right: 1.0pc;
+	padding-top: 0.13pc;
+    padding-bottom: 0.13pc;
 	color: rgb(0.0, 0.0, 0.0);
 	/*background-color: rgb(242.0, 242.0, 242.0);*/
 }
@@ -38,5 +40,6 @@
 
 .footer {
 	padding-top: 3.10pc;
+    border: 0.1pc solid black;
 }
 
