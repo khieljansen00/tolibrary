@@ -3,7 +3,9 @@
 
  /* body */
 
-
+a {
+    color: #01E801;
+}
 
 @font-face {
 	font-family: 'Asul';
