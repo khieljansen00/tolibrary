@@ -11,35 +11,34 @@
 }
 
 #s0 {
-	
+	line-height: 0.6pc;
+    color: #0C0F13;
 	font-family: 'Asul';
-	font-size: 2.00pc;
-	line-height: 2.0pc;
-	padding-left: 1.0pc;
-    padding-right: 1.0pc;
-	padding-top: 0.13pc;
-    padding-bottom: 0.13pc;
-	color: rgb(0.0, 0.0, 0.0);
 	/*background-color: rgb(242.0, 242.0, 242.0);*/
 }
 
 .navigation {
-	padding-bottom: 3.0pc;
+	margin-bottom: 3.0pc;
+    background-color: #589C59;
+    padding-left: 1.0pc;
+    padding-top: 1.0pc;
+    padding-bottom: 1.0pc;
 }
 
 .navigation p {
 	/*display: inline;*/
 	padding-right: 1.0pc;
-	line-height: 2.0pc;
 }
 
 .p1 {
-	padding-left: 1.0pc;
+	margin-left: 2.0pc;
 	padding-bottom: 0.0pc
 }
 
 .footer {
-	padding-top: 3.10pc;
-    border: 0.1pc solid black;
+	margin-top: 4.0pc;
+    font-size: 0.2pc;
+    background-color: #36516E;
+    padding: 1.0pc 0.0;
 }
 
