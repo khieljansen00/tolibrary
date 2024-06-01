@@ -16,18 +16,18 @@
 	font-size: 2.00pc;
 	line-height: 2.0pc;
 	padding-left: 1.0pc;
-	padding-top: 1.0pc;
+	padding-top: 0.0pc;
 	color: rgb(0.0, 0.0, 0.0);
 	/*background-color: rgb(242.0, 242.0, 242.0);*/
 }
 
 .navigation {
-	margin-bottom: 3.0pc;
+	padding-bottom: 3.0pc;
 }
 
 .navigation p {
 	/*display: inline;*/ß
-	margin-right: 11pc;
+	padding-right: 1.0pc;
 	line-height: 2.0pc;
 }
 
@@ -37,6 +37,6 @@
 }
 
 .footer {
-	margin-top: -1.0pc;
+	padding-top: 3.10pc;
 }
 
