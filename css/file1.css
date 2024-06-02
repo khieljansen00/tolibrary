@@ -13,7 +13,7 @@ a {
 }
 
 #s0 {
-	line-height: 0.6pc;
+	line-height: 0.4pc;
     color: #0C0F13;
 	font-family: 'Asul';
 	/*background-color: rgb(242.0, 242.0, 242.0);*/
@@ -42,5 +42,14 @@ a {
     font-size: 0.6pc;
     background-color: #36516E;
     padding: 1.0pc 0.0;
+}
+
+a {
+    display: block;
+    margin-bottom: 1.0pc;
+}
+
+p {
+    margin-bottom: 1.0pc;
 }
 
