@@ -13,43 +13,41 @@ a {
 }
 
 #s0 {
-	line-height: 0.4pc;
+	line-height: 2.0rem;
     color: #0C0F13;
 	font-family: 'Asul';
+    padding-left: 1.0rem;
 	/*background-color: rgb(242.0, 242.0, 242.0);*/
 }
 
+#s0 > h2 {
+    /*margin-left: 1.0rem;*/
+}
+
 .navigation {
-	margin-bottom: 3.0pc;
+	margin-bottom: 1.0rem;
     background-color: #589C59;
-    padding-left: 1.0pc;
-    padding-top: 1.0pc;
-    padding-bottom: 1.0pc;
+    padding-left: 1.0rem;
+    padding-top: 1.0rem;
+    padding-bottom: 1.0rem;
 }
 
 .navigation p {
 	/*display: inline;*/
-	padding-right: 1.0pc;
+	padding-right: 1.0rem;
 }
 
 .p1 {
-	margin-left: 2.0pc;
-	padding-bottom: 0.0pc
+	margin-left: 2.0rem;
 }
 
 .footer {
-	margin-top: 4.0pc;
-    font-size: 0.6pc;
-    background-color: #36516E;
-    padding: 1.0pc 0.0;
+    background-color: #589C59;
+    padding: 1.0rem 0 1.0rem 1.0rem;
+    margin-top: 2.0rem;
 }
 
-a {
+a + a {
+    margin-top: 1.0rem;
     display: block;
-    margin-bottom: 1.0pc;
 }
-
-p {
-    margin-bottom: 1.0pc;
-}
-
