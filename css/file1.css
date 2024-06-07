@@ -8,15 +8,17 @@ a {
 }
 
 @font-face {
-	font-family: 'Asul';
-	src: url('Asul-Regular.ttf') format('truetype');
+	font-family: 'FreeSans';
+	src: url('FreeSans.otf') format('opentype');
+	font-weight: normal;
+    font-style: normal;
 }
 
 #s0 {
     font-size: 2.0rem;
 	line-height: 2.0rem;
     color: #0C0F13;
-	font-family: 'Asul';
+	font-family: 'FreeSans';
     padding-left: 1.0rem;
 	/*background-color: rgb(242.0, 242.0, 242.0);*/
 }
